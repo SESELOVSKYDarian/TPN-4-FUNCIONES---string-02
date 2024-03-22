@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int ContarValorLetras(string frase);
+int ContarValorLetras(string f);
 int main()
 {
     string frase;
